@@ -3,11 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Karina-developer.github.io/project1",
+  "homepage": "n",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project1/",
-    "predeploy": "npm run build -- --public-url /project1/"
+    "build": "parcel build src/*.html --public-url /project1/"
   },
   "repository": {
     "type": "git",
